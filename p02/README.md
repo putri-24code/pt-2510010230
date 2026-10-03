@@ -41,3 +41,5 @@ Folder `p02` di repository `pt-NPM` berisi `sinilai_v01.cpp`, dan  `README.md`. 
 ## Deklarasi AI
 
 Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+
+Label AI 1: Saya menggunakan ChatGPT sebagai alat bantu untuk memahami langkah-langkah penggunaan Git dan GitHub serta membantu memahami dan memeriksa kode program. Hasil dari AI saya periksa kembali dengan menjalankan program, mengecek hasilnya, dan menyesuaikannya dengan instruksi tugas.
