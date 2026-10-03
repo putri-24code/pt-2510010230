@@ -33,4 +33,7 @@ Folder `p03` di repository `pt-NPM` berisi `sinilai_v02.cpp` dan  `README.md`. L
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+Saya menggunakan ChatGPT sebagai bantuan dalam mengerjakan praktikum Pertemuan 3. AI digunakan untuk membantu memahami materi operator aritmetika, membantu menyusun dan memeriksa kode program sinilai_v02.cpp, serta membantu troubleshooting saat menjalankan program menggunakan MSYS2 UCRT64 dan Git.
+
+Kode dan hasil program tetap saya periksa dan jalankan sendiri untuk memastikan sesuai dengan ketentuan pada modul praktikum.
+
